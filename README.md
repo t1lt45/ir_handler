@@ -5,7 +5,7 @@
 Uma ferramenta **Client-Side (HTML/JS)** projetada para auxiliar Analistas de SOC, CSIRT e Blue Teamers a estruturar o fluxo de pensamento (*Mindset*) durante a análise de incidentes de segurança.
 
 ![Status](https://img.shields.io/badge/Status-Stable-success)
-![Version](https://img.shields.io/badge/Version-v4.1-blue)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
 ---
