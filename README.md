@@ -12,7 +12,7 @@ Uma ferramenta **Client-Side (HTML/JS)** projetada para auxiliar Analistas de SO
 
 ## 📸 Preview
 
-![Screenshot da Ferramenta](screenshot.png)
+![Screenshot da Ferramenta](./screenshotv1.0.png)
 
 
 ---
